@@ -8,3 +8,6 @@
 ## Merge Conflicts
 ## Rebase
 ## Reflog
+## GitHUB
+## GitHUB administration
+## GitHub Actions
